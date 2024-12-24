@@ -1,4 +1,4 @@
-# Heap-Sort-and-Kruskal-s-algorithms
+# Heap-Sort and Kruskals algorithms
 ## Overview
 
 This repository contains implementations for two fundamental algorithms:
